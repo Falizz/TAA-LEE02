@@ -6,11 +6,11 @@ Este repositório contém os códigos utilizados na resolução dos problemas pr
 
 ### Problemas e Arquivos Correspondentes:
 
-- **A - Distância de Hamming:** [DistanciaBinaria.cpp](./LEE01-TAA/DistanciaBinaria.cpp)
-- **B - Encontrar o Inteiro Faltante:** [TriOU.cpp](./LEE01-TAA/TriOU.cpp)
-- **C - Ativar Bit:** [SuperBitAtivar.cpp](./LEE01-TAA/SuperBitAtivar.cpp)
-- **D - Trocar Bits:** [BitSwap.cpp](./LEE01-TAA/BitSwap.cpp)
-- **E - Pribit:** [PriBit.cpp](./LEE01-TAA/PriBit.cpp)
+- **A - Distância de Hamming:** [DistanciaBinaria.cpp](./LEE02-TAA/DistanciaBinaria.cpp)
+- **B - Encontrar o Inteiro Faltante:** [TriOU.cpp](./LEE02-TAA/TriOU.cpp)
+- **C - Ativar Bit:** [SuperBitAtivar.cpp](./LEE02-TAA/SuperBitAtivar.cpp)
+- **D - Trocar Bits:** [BitSwap.cpp](./LEE02-TAA/BitSwap.cpp)
+- **E - Pribit:** [PriBit.cpp](./LEE02-TAA/PriBit.cpp)
 
 ### Explicando os exercícios:
 
